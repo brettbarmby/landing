@@ -1,0 +1,36 @@
+.middle-cards {
+  text-align: center;
+  padding: 24px;
+}
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 3px dashed #04f7e3
+}
+
+.card img {
+  height: 200px;
+  background-image: cover
+}
+
+.middle-cards h2 {
+  color: #fc3adc;
+}
+
+.middle-cards h3 {
+  color: #fc3adc;
+}
+
+.middle-cards p {
+  color: #fc3adc;
+}
+

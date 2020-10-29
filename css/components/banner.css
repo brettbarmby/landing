@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(../../images/dog2.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+
+.banner h1 {
+  color: #04f7e3;
+  opacity: .9;
+}
+
+.banner p {
+  color: #fc3adc;
+  font-size: 20px;
+  font-weight: 700;
+  opacity: .7;
+}
+
+.banner-content {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
